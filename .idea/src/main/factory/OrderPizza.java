@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class OrderPizza {
     public static void main(String[] args) {
         do {
+            System.out.println("fdfdf");
             System.out.println("开始制作，输入披萨类型");
             Scanner src = new Scanner(System.in);
             String next = src.next();
